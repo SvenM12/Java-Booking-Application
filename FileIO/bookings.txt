@@ -1,0 +1,10 @@
+1,John,Spiteri,99845124,10/01/2024,5
+2,Kate,Galea,79451245,10/02/2024,4,Horror theme
+1,Peter,Zahra,79845731,21/07/2024,3
+3,Alice,Carabott,99468791,10/05/2024,4
+4,James,Dingli,99364125,10/05/2024,5,Nature theme
+2,Kim,Fenech,99871632,21/07/2024,4,Nature theme
+5,George,Pace,79541247,10/06/2024,3,Horror theme
+3,Jack,Vella,99451785,21/07/2024,4
+1,Sven,Mallia,99352578,1/01/2024,2,Horror theme
+4,John,Vella,938423,21/07/2024,2
